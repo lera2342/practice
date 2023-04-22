@@ -44,14 +44,14 @@ img {
 }
 
 .greateeng {
-    position: absolute;
-    bottom: 52px;
-    left: 28px;
-    background: #0f3f3c;
-    border-radius: 16px;
-    padding: 24px;
-    width: 432px;
-    padding: 24px;
+        position: absolute;
+            bottom: 52px;
+            left: 28px;
+            background: #0f3f3c;
+            border-radius: 16px;
+            padding: 24px;
+            width: 432px;
+            padding: 24px;
 }
 
 .greateeng h1 {
